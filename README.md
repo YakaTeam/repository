@@ -1,24 +1,14 @@
-# Artifacts / Archive for K
+# Plugin artifacts
 
 ### Please give the repo a :star:
 
 ### Usage
 **👉 You can download these artifacts from [this page](https://github.com/YAKATeam/artifacts/releases/). It's always safe and ready to download.**
 
-<div align="center">
-
-[![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/6.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/3.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/9.gif)](https://github.com/YakaTeam/artifacts/releases/latest) 
-
-</div>
-
 ### Contribute
-**👋 You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/YAKATeam/kotatsu-parsers). You can also add / edit all translations for application in [this repository](https://github.com/YAKATeam/translate).**
+**👋 You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/YAKATeam/kotatsu-parsers).**
 
 -----------------
-
-### Translations (Source code)
-
-https://github.com/YakaTeam/translate
 
 ### Parsers (Source code)
 
@@ -36,7 +26,7 @@ https://github.com/YakaTeam/kotatsu-parsers/issues/new/
 
 <div align="left">
 
-All programs from Yumemi™ Project and [YakaTeam](https://github.com/YakaTeam) are free, open-source programs under the GPL license. You may copy, distribute, and modify the software as long as you keep track of changes/dates in the source files. Any modifications to the software, including code licensed under the GPL (via a compiler), must also be provided under the GPL license.
+All programs from [YakaTeam](https://github.com/YakaTeam) are free, open-source programs under the GPL license. You may copy, distribute, and modify the software as long as you keep track of changes/dates in the source files. Any modifications to the software, including code licensed under the GPL (via a compiler), must also be provided under the GPL license.
 
 </div>
 
